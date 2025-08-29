@@ -1,0 +1,6 @@
+C:\Users\marco\Desktop\TAP alfonso\practica2\DLLPractica2\bin\Debug\DLLPractica2.dll
+C:\Users\marco\Desktop\TAP alfonso\practica2\DLLPractica2\bin\Debug\DLLPractica2.pdb
+C:\Users\marco\Desktop\TAP alfonso\practica2\DLLPractica2\obj\Debug\DLLPractica2.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\TAP alfonso\practica2\DLLPractica2\obj\Debug\DLLPractica2.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\TAP alfonso\practica2\DLLPractica2\obj\Debug\DLLPractica2.dll
+C:\Users\marco\Desktop\TAP alfonso\practica2\DLLPractica2\obj\Debug\DLLPractica2.pdb

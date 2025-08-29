@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\bin\Debug\practica1.exe.config
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\bin\Debug\practica1.exe
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\bin\Debug\practica1.pdb
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.Properties.Resources.resources
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.exe
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.pdb
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.MenuForm.resources
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.LoginForm.resources
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.CaptureForm.resources
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.RadioBtnGroup.resources
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.ConsultasForm.resources
+C:\Users\marco\Desktop\TAP alfonso\prac1\practica1\obj\Debug\practica1.Alumnos.resources

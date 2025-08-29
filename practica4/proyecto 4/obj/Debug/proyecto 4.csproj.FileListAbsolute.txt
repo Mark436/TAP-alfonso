@@ -1,0 +1,10 @@
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\bin\Debug\proyecto 4.exe.config
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\bin\Debug\proyecto 4.exe
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\bin\Debug\proyecto 4.pdb
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\obj\Debug\proyecto 4.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\obj\Debug\proyecto_4.Form1.resources
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\obj\Debug\proyecto_4.Properties.Resources.resources
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\obj\Debug\proyecto 4.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\obj\Debug\proyecto 4.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\obj\Debug\proyecto 4.exe
+C:\Users\marco\Desktop\TAP alfonso\proyecto 4\proyecto 4\obj\Debug\proyecto 4.pdb

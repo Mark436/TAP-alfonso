@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\TAP alfonso\\practica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\radiobtngroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\consultasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\captureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4F4533-9572-40A5-8080-032780FDEDDA}|..\\prac1\\practica1\\practica1.csproj|c:\\users\\marco\\desktop\\tap alfonso\\prac1\\practica1\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RadioBtnGroup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\RadioBtnGroup.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\RadioBtnGroup.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\RadioBtnGroup.cs [Design]",
+              "RelativeToolTip": "..\\prac1\\practica1\\RadioBtnGroup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:38:24.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\Program.cs",
+              "RelativeToolTip": "..\\prac1\\practica1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:38:11.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\MenuForm.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\MenuForm.cs",
+              "RelativeToolTip": "..\\prac1\\practica1\\MenuForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:30:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\MenuForm.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\MenuForm.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\MenuForm.cs [Design]",
+              "RelativeToolTip": "..\\prac1\\practica1\\MenuForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:25:22.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\LoginForm.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\prac1\\practica1\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:25:08.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsultasForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\ConsultasForm.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\ConsultasForm.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\ConsultasForm.cs [Design]",
+              "RelativeToolTip": "..\\prac1\\practica1\\ConsultasForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:25:00.765Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CaptureForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\CaptureForm.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\CaptureForm.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\CaptureForm.cs [Design]",
+              "RelativeToolTip": "..\\prac1\\practica1\\CaptureForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:24:52.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\Alumnos.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\Alumnos.cs",
+              "RelativeToolTip": "..\\prac1\\practica1\\Alumnos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T23:09:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumnos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\Alumnos.cs",
+              "RelativeDocumentMoniker": "..\\prac1\\practica1\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\prac1\\practica1\\Alumnos.cs [Design]",
+              "RelativeToolTip": "..\\prac1\\practica1\\Alumnos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:43:24.053Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

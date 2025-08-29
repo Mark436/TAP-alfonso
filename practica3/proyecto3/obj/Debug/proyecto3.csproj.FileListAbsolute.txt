@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.AgregarFrm.resources
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.mainForm.resources
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.Login.resources
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.Properties.Resources.resources
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\bin\Debug\proyecto3.exe.config
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\bin\Debug\proyecto3.exe
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\bin\Debug\proyecto3.pdb
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.exe
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.pdb
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.Eliminar.resources
+C:\Users\marco\Desktop\TAP alfonso\proyecto3\proyecto3\obj\Debug\proyecto3.Modificar.resources

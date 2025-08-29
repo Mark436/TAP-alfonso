@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|c:\\users\\marco\\desktop\\tap alfonso\\proyecto3\\proyecto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\agregarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\agregarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\modificar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\agregarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\agregarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\eliminar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\sqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\eliminar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15AD5E-7400-4654-907F-1C72DA0C4F6E}|proyecto3\\proyecto3.csproj|solutionrelative:proyecto3\\eliminar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Program.cs",
+              "RelativeDocumentMoniker": "proyecto3\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Program.cs",
+              "RelativeToolTip": "proyecto3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:55:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Eliminar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Eliminar.Designer.cs",
+              "RelativeDocumentMoniker": "proyecto3\\Eliminar.Designer.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Eliminar.Designer.cs",
+              "RelativeToolTip": "proyecto3\\Eliminar.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwLkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:18:38.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "proyecto3\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "proyecto3\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAIAwwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T23:45:37.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarFrm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\AgregarFrm.cs",
+              "RelativeDocumentMoniker": "proyecto3\\AgregarFrm.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\AgregarFrm.cs [Design]",
+              "RelativeToolTip": "proyecto3\\AgregarFrm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:12:02.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modificar.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Modificar.cs",
+              "RelativeDocumentMoniker": "proyecto3\\Modificar.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Modificar.cs",
+              "RelativeToolTip": "proyecto3\\Modificar.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:23:37.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "proyecto3\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\FrmLogin.cs",
+              "RelativeToolTip": "proyecto3\\FrmLogin.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:54:25.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modificar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Modificar.cs",
+              "RelativeDocumentMoniker": "proyecto3\\Modificar.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Modificar.cs [Design]",
+              "RelativeToolTip": "proyecto3\\Modificar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T22:17:53.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eliminar.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Eliminar.cs",
+              "RelativeDocumentMoniker": "proyecto3\\Eliminar.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Eliminar.cs",
+              "RelativeToolTip": "proyecto3\\Eliminar.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:54:12.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eliminar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Eliminar.cs",
+              "RelativeDocumentMoniker": "proyecto3\\Eliminar.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Eliminar.cs [Design]",
+              "RelativeToolTip": "proyecto3\\Eliminar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:49:49.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarFrm.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\AgregarFrm.cs",
+              "RelativeDocumentMoniker": "proyecto3\\AgregarFrm.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\AgregarFrm.cs",
+              "RelativeToolTip": "proyecto3\\AgregarFrm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T21:32:19.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Form1.cs",
+              "RelativeDocumentMoniker": "proyecto3\\Form1.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Form1.cs",
+              "RelativeToolTip": "proyecto3\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADwvyUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:26:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SqlConnector.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\SqlConnector.cs",
+              "RelativeDocumentMoniker": "proyecto3\\SqlConnector.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\SqlConnector.cs",
+              "RelativeToolTip": "proyecto3\\SqlConnector.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T20:02:49.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "proyecto3\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "proyecto3\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:51:01.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Form1.cs",
+              "RelativeDocumentMoniker": "proyecto3\\Form1.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\TAP alfonso\\proyecto3\\proyecto3\\Form1.cs [Design]",
+              "RelativeToolTip": "proyecto3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T00:24:52.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
