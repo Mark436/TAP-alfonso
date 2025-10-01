@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\HilosProy\HilosProy\bin\Debug\HilosProy.exe.config
+C:\Users\PC\source\repos\HilosProy\HilosProy\bin\Debug\HilosProy.exe
+C:\Users\PC\source\repos\HilosProy\HilosProy\bin\Debug\HilosProy.pdb
+C:\Users\PC\source\repos\HilosProy\HilosProy\obj\Debug\HilosProy.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HilosProy\HilosProy\obj\Debug\HilosProy.Form1.resources
+C:\Users\PC\source\repos\HilosProy\HilosProy\obj\Debug\HilosProy.Properties.Resources.resources
+C:\Users\PC\source\repos\HilosProy\HilosProy\obj\Debug\HilosProy.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\HilosProy\HilosProy\obj\Debug\HilosProy.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HilosProy\HilosProy\obj\Debug\HilosProy.exe
+C:\Users\PC\source\repos\HilosProy\HilosProy\obj\Debug\HilosProy.pdb
